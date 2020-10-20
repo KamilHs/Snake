@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+}
+
+canvas {
+    display: block;
+    background-color: black;
+}
+
+#score {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    color: lime;
+    font-size: 24px;
+    font-weight: 700;
+}
